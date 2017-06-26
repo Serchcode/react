@@ -1,0 +1,15 @@
+h1{ color: white;
+	margin:0;
+    margin-left: 27%;
+}
+
+.ui.inverted.segment, .ui.primary.inverted.segment {
+    background: indigo;
+    color: rgba(255,255,255,.9);
+}
+
+.slide{
+	height: 100px;
+	width: 100%;
+
+}

@@ -1,0 +1,43 @@
+.jumbotron{
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-image: url("../../assets/images/ch2.jpg");
+    border-radius: 0.3rem;
+    color: black;
+}
+
+.titulo{
+	font-size: 100px;
+	text-shadow: 8px 8px #4fc3f7;
+}
+
+.texto{
+	font-size: 20px;
+    padding-top: 2%;
+}
+
+.boton{
+    color: black;
+    background-color: #4fc3f7;
+    border: 3px solid #4fc3f7;
+    border-color: #4fc3f7;
+    border-radius: 5px;
+}
+
+.icono{
+    width: 100px;
+    height: 100px;
+}
+
+.cbtn{
+    color:#4fc3f7 ;
+    background-color: transparent;
+    border: 3px solid #4fc3f7;
+    border-color: #4fc3f7;
+    border-radius: 5px;
+}
+
+div .second{
+    background-size: cover;
+    background-repeat: no-repeat;
+}

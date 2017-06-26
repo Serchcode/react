@@ -1,0 +1,33 @@
+.btninput{
+	color:#4fc3f7 ;
+    background-color: transparent;
+    border: 3px solid #4fc3f7;
+    border-color: #4fc3f7;
+    border-radius: 5px;
+}
+
+.lib{
+	width: 300px;
+	height:250px;
+	border-radius: 10px;
+	border-style: none;
+}
+
+.sp{
+	border: 3px solid #4fc3f7;
+	font-size: 30px;
+	color: #4fc3f7;
+	border-radius: 6px;
+}
+
+.formu{
+	margin-top: 20%;
+}
+
+.btnform{
+	color:#4fc3f7 ;
+    background-color: transparent;
+    border: 3px solid #4fc3f7;
+    border-color: #4fc3f7;
+    border-radius: 5px;
+}
